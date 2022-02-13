@@ -307,4 +307,11 @@
     border-radius: 25%;
 }
 
+
+.social-container{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    grid-column: auto auto auto auto;
+}
 /* Bottom Nav Bar End */
