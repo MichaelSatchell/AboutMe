@@ -314,4 +314,20 @@
     justify-items: center;
     grid-column: auto auto auto auto;
 }
+
+/* .test{
+    display:inline-block;
+    padding: 25px 75px;
+    background-color: red;
+    color: white;
+}
+
+.Second-test{
+
+}
+
+.Would{
+    display: grid;
+
+} */
 /* Bottom Nav Bar End */
