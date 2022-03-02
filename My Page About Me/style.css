@@ -275,6 +275,16 @@
     border-radius: 25%;
 }
 
+/* Decided to add a design element that will display the name of the social media icon once hovered. */
+.FB-words{
+    color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    height: 110px;
+}
+.FB-words:hover{
+    color:blue;
+}
+
 .Insta-size{
     position: relative;
     width: 100px;
