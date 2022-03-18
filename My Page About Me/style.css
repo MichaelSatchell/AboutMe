@@ -110,6 +110,15 @@
     
 }     /* End of navation bar.*/
 
+/* Introduce Myself */
+
+.name-headline{
+    color: #000000;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
 
 /* This is the main container for picture of ME. main div 
 .mvp1 */
@@ -195,7 +204,7 @@
     color: white;
     font-size: 20px;
     position: absolute;
-    top: 50%;
+    top: 85%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transformm: translate(-50%, -50%);
