@@ -230,6 +230,13 @@
     
 }
 
+/* section two is the next section of the webpage. Start my About Me portion and transition to a black background. */
+
+.section-two{
+    background-color: rgba(0, 0, 0, 1);
+    height: 25%;
+    width: 100%;
+}
 
 
 /* the image overlay which is displayed when image is hovered on. */
