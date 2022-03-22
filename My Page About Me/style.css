@@ -233,11 +233,18 @@
 /* section two is the next section of the webpage. Start my About Me portion and transition to a black background. */
 
 .section-two{
-    background-color: rgba(0, 0, 0, 1);
+    background-color: rgba(255, 255, 255, 0.3);
     height: 25%;
-    width: 100%;
+    width: 50%;
+    align-content: center;
+    text-align: center;
+    border-radius: 25px;
 }
 
+.section-two:hover{
+    border-color:goldenrod;
+    border-width: 2px;
+}
 
 /* the image overlay which is displayed when image is hovered on. */
 /*
