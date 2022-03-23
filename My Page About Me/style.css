@@ -36,6 +36,7 @@
     object-fit: contain;
     margin-left: 5%;
     margin-top: 3%;
+    position: fixed;
 
 }
 
@@ -76,7 +77,7 @@
     justify-content: center;
     align-items: center;
     font-size: 22px;
-           
+                   
 }
 
 /* */
